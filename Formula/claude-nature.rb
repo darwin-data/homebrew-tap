@@ -1,9 +1,8 @@
 # Generated from the v0.2.0 release of darwin-data/claude-nature. To update: change the
-# version and the four sha256 values from the release `.sha256` files.
+# version in the four URLs and the four sha256 values from the release `.sha256` files.
 class ClaudeNature < Formula
   desc "Nature footprint of your Claude Code sessions: climate, water, pollution, land"
   homepage "https://github.com/darwin-data/claude-nature"
-  version "0.2.0"
   license "MIT"
 
   on_macos do
